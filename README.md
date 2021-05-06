@@ -9,7 +9,7 @@ All useful library detail with link
 
 ## Ramani Hitesh 
 
-<img width="1188" height="396" src="https://github.com/RamaniHiteshc/Android-Use-Library/blob/main/facebook.png" alt="hr">
+<img width="900" height="300" src="https://github.com/RamaniHiteshc/Android-Use-Library/blob/main/facebook.png" alt="hr">
 
 ## Contents
 
